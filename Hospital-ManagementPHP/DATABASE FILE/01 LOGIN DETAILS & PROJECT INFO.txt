@@ -1,0 +1,13 @@
+
+**Database Name: hospitalms**
+
+**Developed by endrula pavan and prajwal chowdary**
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin123
+
+
